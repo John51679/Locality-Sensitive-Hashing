@@ -3,7 +3,7 @@ import time
 import math
 
 
-filesNo = int(input("Gia posa arxeia 8es na to tre3w: ")) #Set the number of files with user input
+filesNo = int(input("Provide the directory with the documents: ")) #Set the document directory
 
 DocTest = [] #List containing the files we will check
 DocNames = [] #A list containing the names of the files we imported
